@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0",
+    "playwright": "^1.58.2",
+    "save": "^2.9.0"
+  },
+  "name": "auto_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.6",
+    "duplexer": "^0.1.2",
+    "event-stream": "^4.0.1",
+    "from": "^0.1.7",
+    "lodash.assign": "^4.2.0",
+    "map-stream": "^0.0.7",
+    "mingo": "^6.7.2",
+    "pause-stream": "^0.0.11",
+    "playwright-core": "^1.58.2",
+    "split": "^1.0.1",
+    "stream-combiner": "^0.2.2",
+    "through": "^2.3.8"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
